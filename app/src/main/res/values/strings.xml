@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Say The Word</string>
+    <string name="customTextBtn">Saját szöveg</string>
+    <string name="sayItBtn">A szó kimondása</string>
+    <string name="wordTextView">Kimondandó szó</string>
+    <string name="inputCustomText">Felismerendő szó</string>
+    <string name="customTextDialog">Adjon meg egy szót:</string>
+    <string name="askNewWord">Új szó kérése</string>
+    <string name="sayItBitch">Mondja ki a szót</string>
+    <string name="saidToast">Kimondva: \"</string>
+    <string name="deviceNotSupported">Hoppá, a készülék nem támogatja a szövegfelismerést</string>
+
+    <string-array name="szavak">
+        <item>Kutya</item>
+        <item>Macska</item>
+        <item>Kacsa</item>
+        <item>Beszédes</item>
+        <item>Szókimondó</item>
+        <item>Ez nem is egy szó</item>
+    </string-array>
+</resources>
