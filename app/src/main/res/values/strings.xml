@@ -17,5 +17,16 @@
         <item>Beszédes</item>
         <item>Szókimondó</item>
         <item>Ez nem is egy szó</item>
+        <!-- a 10 legszebb magyar szo Kosztolanyi szerint-->
+        <item>Anya</item>
+        <item>Gyöngy</item>
+        <item>Szűz</item>
+        <item>Ősz</item>
+        <item>Kard</item>
+        <item>Vér</item>
+        <item>Csók</item>
+        <item>Sír</item>
+        <item>Láng</item>
+        <item>Szív</item>
     </string-array>
 </resources>

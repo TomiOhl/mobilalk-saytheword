@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    /*TODO: check if needed
+    /*realization: valoszinuleg foloslegesen oldottam meg, mert enelkul is mukodni latszik
     //engedely ellenorzese
     private void checkMicAccess() {
         if (ContextCompat.checkSelfPermission(this, Manifest.permission.RECORD_AUDIO) != PackageManager.PERMISSION_GRANTED) {
@@ -135,7 +135,7 @@ public class MainActivity extends AppCompatActivity {
                 ArrayList<String> results = data.getStringArrayListExtra(RecognizerIntent.EXTRA_RESULTS);
                 if (results != null) {
                     String result = results.get(0);
-                    Toast.makeText(this, getString(R.string.saidToast) + result + "\"", Toast.LENGTH_LONG).show();
+                    Toast.makeText(this, getString(R.string.saidToast) + result + "\"", Toast.LENGTH_SHORT).show();
                     validateResult(result);
                 }
             }
